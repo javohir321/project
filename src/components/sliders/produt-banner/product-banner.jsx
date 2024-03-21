@@ -47,7 +47,6 @@ const settings = {
   infinite: false,
   speed: 500,
   slidesToShow: 5,
-  // autoplay: true,
   slidesToScroll: 1,
   nextArrow: <SampleNextArrow />,
   prevArrow: <SamplePrevArrow />,

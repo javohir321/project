@@ -1,7 +1,7 @@
 import React from "react";
 import {FavorImg} from "../../../assets/icons/favor"
 import { add } from "../../../redux/reducers/cart";
-import {  useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import {ShopIcon} from "../../../assets/icons/shop-Icon.jsx"
 
 
